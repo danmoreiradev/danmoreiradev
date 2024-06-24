@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou o Daniel Moreira</h1>
 <h3 align="center">Apaixonado por suporte técnico, programação e análise de dados no mundo digital!</h3>
 
-- 🔭 Atualmente estou trabalhando como Analista Suporte T.I **Hapvida Saúde.**
+- 🔭 Atualmente estou trabalhando como Analista de Sistemas.
 
 - 🌱 Atualmente estou estudando **JavaScript, PHP, MySql, HTML.**
 
