@@ -60,7 +60,6 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danmoreiradev&layout=compact&langs_count=8&theme=tokyonight" />
-  [![GitHub Streak](https://streak-stats.demolab.com?user=danmoreiradev&theme=tokyonight)](https://git.io/streak-stats)
 </p>
 
 ---
