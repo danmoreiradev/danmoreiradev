@@ -47,10 +47,6 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://contributions.okcode.club/embed.html?username=danmoreiradev&axis=false&dark=true" alt="GitHub Contributions" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.zcy.dev/api?username=danmoreiradev&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
