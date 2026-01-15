@@ -56,14 +56,6 @@
 
 ---
 
-<h2 align="center">📌 Linguagens Mais Usadas</h2>
-
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danmoreiradev&layout=compact&langs_count=8&theme=tokyonight" />
-</p>
-
----
-
 <h3 align="center">✨ Obrigado por visitar!</h3>
 <p align="center">
   💻 Em constante aprendizado e evolução 🚀
